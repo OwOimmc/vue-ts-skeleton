@@ -1,7 +1,5 @@
 # Vue ts skeleton
 
-adjusmet from "npm create vue@latest"
-
 - docker - node:20.11.0
 - vue3
 - ts
